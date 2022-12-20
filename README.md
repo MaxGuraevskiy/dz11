@@ -1,0 +1,2 @@
+Address deploying the contract --> 0xeC1f236703E05C1464D9fb421894416D7D03600F
+Token contract address --> 0x0A54F04885CBEF2F92Bf9a2454b2cD225096867A
